@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-04-29 at 17 45 21_e3da6d03](https://github.com/pirateharishs/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/166011385/2fca53a0-d843-44f4-88bc-16ffbe18c62b)
+
+![WhatsApp Image 2024-04-29 at 17 45 07_9ff076e8](https://github.com/pirateharishs/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/166011385/77338251-bb9c-4e9e-a3ef-1bf66889fa9c)
+
+### Name: HARISH S
+### Register Number: 212223230071
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
